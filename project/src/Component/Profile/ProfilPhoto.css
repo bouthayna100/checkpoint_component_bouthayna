@@ -1,0 +1,24 @@
+.rounded-circle{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:100px;
+    height:100px;
+     margin-left: auto;
+    margin-right: auto;
+}
+.img-r{
+    width: 100px;
+}
+.col-xs-7 .rounded-circle {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.contain:hover .rounded-circle {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+

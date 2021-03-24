@@ -1,0 +1,26 @@
+ @media screen and (max-width: 350px) {
+
+.profile-name-p  {
+
+    font-weight: 600;
+    font-size: 12px;
+    font-weight: bold;
+    left: 0px;
+    right: 0px;
+    top: -70px;
+    color: black;
+    font-family: "Open Sans";}
+ }
+  @media screen and (min-width: 350px) {
+
+.profile-name-p  {
+
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    font-weight: bold;
+    left: 0px;
+    right: 0px;
+    top: -70px;
+    color: black;
+    font-family: "Open Sans";}}
